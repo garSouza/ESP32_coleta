@@ -1,5 +1,5 @@
 # ESP32_coleta
-O código possui a maior velocidade de coleta que eu consegui atingir utilizando um esp32.
+Maior frequência de aquisição que eu consegui no esp32.
 O modelo foi NodeMCU 32s e os dados eram enviados em 12 bits através de ADC9226.
 O código lê o estado de todos os pinos de um esp32 e salva em um vetor, 5000 pontos, a uma velocidade 1.356 MHz
 A única parte que importa na coleta é ciclo do for
